@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=datagirl29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndmczZvcTd5cmx6N2ZqdXg3ejM0bHNudmR6bHMwa25sZ3F5bDlhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PrQhETI1Eb7A8Buv0W/giphy.gif"  />
+
 - 👯 I’m looking to collaborate on **Product and Data-driven projects**
 - 👨‍💻 Portfolio: [moksha-shah-b2ncbkn.gamma.site](https://moksha-shah-b2ncbkn.gamma.site/)
 - ⚡ Fun fact: **I'm learning Italian through music 🎵🇮🇹**
