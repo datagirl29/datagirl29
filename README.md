@@ -11,7 +11,6 @@
 - 👨‍💻 Portfolio: [moksha-shah-b2ncbkn.gamma.site](https://moksha-shah-b2ncbkn.gamma.site/)
 - ⚡ Fun fact: **I'm learning Italian through music 🎵🇮🇹**
 
----
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksha29/)
